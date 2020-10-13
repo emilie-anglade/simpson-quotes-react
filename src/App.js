@@ -17,6 +17,11 @@ function App() {
         character="Homer Simpson"
         quote="In theory, Communism works! In theory."
       />
+      <QuoteCard
+      image="https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FLisaSimpson.png?1497567512083" 
+      character="Lisa Simpson"
+      quote="Hello world!"
+      />
     </div>
   );
 }
